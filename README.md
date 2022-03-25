@@ -1,2 +1,2 @@
-# cofa
-Welcome.
+# Welcome
+Hello world.
