@@ -1,3 +1,6 @@
+<body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">
+  <div style="text-align: center;">
+    
 ![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg)
 
 <script src="https://www.emailmeform.com/builder/forms/jsform/124058" type="text/javascript"></script>
