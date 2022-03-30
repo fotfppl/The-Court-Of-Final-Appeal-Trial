@@ -10,3 +10,6 @@ State your case in the box on the right. Be precise and concise. If someone has 
 
  *A trial is currently in progress ...
   Wait your turn.*
+    
+  </div>
+    </body>
