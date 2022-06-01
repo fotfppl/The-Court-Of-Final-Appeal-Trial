@@ -1,5 +1,5 @@
     
-![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg | width=100)
+![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg | width=100%)
 
 <img src="http://trials.courtoffinalappeal.com/cofa.jpg" alt="The Court Of Final Appeal" width=100%>
 
