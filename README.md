@@ -18,9 +18,9 @@
 
 <h6>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h6>
 
-<p>You will have to account for your words and deeds.</p>
-<p>If my investigations show that your appeal is groundless, <br>
-be prepared for double the trouble!!</p>
+<h4>You will have to account for your words and deeds. <br>
+If my investigations show that your appeal is groundless, <br>
+be prepared for double the trouble!!</h4>
 
 <br>
 
