@@ -19,10 +19,10 @@ State your case in the form above. Be precise and concise. If someone has wronge
 
 <p>© 2008 Supreme Lord of The Court of Final Appeal</p>
 
-<br>
 <hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(159, 150, 145); background-color: rgb(159, 150, 145);">
 
 For entertainment only.
+<br>
 <br>
 *A trial is currently in progress ... Please wait your turn.*
 
