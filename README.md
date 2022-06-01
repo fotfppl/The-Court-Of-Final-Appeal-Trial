@@ -25,7 +25,7 @@ be prepared for double the trouble!!</p>
 
 <h6>© 2008 Supreme Lord of The Court of Final Appeal</h6>
 
-<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(128, 128, 128);">
+<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(255, 128, 128);">
 
 <h6><em>For entertainment only.</em></h6>
 
