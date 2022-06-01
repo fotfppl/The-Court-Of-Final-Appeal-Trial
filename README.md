@@ -29,7 +29,7 @@ be prepared for double the trouble!!</p>
 
 <br>
 
-*A trial is currently in progress ... Please wait your turn.*
+<em>A trial is currently in progress ... Please wait your turn.</em>
 
   </div>
     </body>
