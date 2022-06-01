@@ -1,7 +1,7 @@
     
 ![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg)
 
-<img src="http://trials.courtoffinalappeal.com/cofa.jpg" alt="The Court Of Final Appeal" width=300 align=center>
+<img src="http://trials.courtoffinalappeal.com/cofa.jpg" alt="The Court Of Final Appeal" width=300 class="center">
 
 
 <body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">
@@ -25,7 +25,7 @@ State your case in the form above. Be precise and concise. If someone has wronge
 For entertainment only.
 <br>
 <hr
- style="border-width: 0pt; width: 900px; height: 1px; color: rgb(159, 150, 145); background-color: rgb(159, 150, 145);">
+ style="border-width: 0pt; width: 100%; height: 1px; color: rgb(159, 150, 145); background-color: rgb(159, 150, 145);">
 *A trial is currently in progress ... Please wait your turn.*
 
   </div>
