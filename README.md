@@ -1,6 +1,9 @@
     
 ![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg)
 
+<img src="http://trials.courtoffinalappeal.com/cofa.jpg" width=300 align=right>
+
+
 <body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">
   <div style="text-align: center;">
 
@@ -18,7 +21,7 @@ State your case in the form above. Be precise and concise. If someone has wronge
 
 <hr
  style="border-width: 0pt; width: 900px; height: 1px; color: rgb(159, 150, 145); background-color: rgb(159, 150, 145);">
-<p>© 2008 - Supreme Lord of The Court of Final Appeal</p>
+<p>© 2008 Supreme Lord of The Court of Final Appeal</p>
 For entertainment only.
 <br>
 <hr
