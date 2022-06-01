@@ -12,8 +12,6 @@
 
 <h3>State your case in the form above. Be precise and concise. If someone has wronged you, state that person's name clearly. I will consider each and every case and mete out judgement accordingly! Some judgements are quick, others take time. I know best. This I promise: Perfect justice will be served to all — the living and the dead!!</h3>
 
-<br>
-
 <h6>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h6>
 
 <br>
@@ -25,13 +23,11 @@ be prepared for double the trouble!!</p>
 
 <hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(128, 128, 128);">
 
-<h6>
-© 2008 Supreme Lord of The Court of Final Appeal
+<h6>© 2008 Supreme Lord of The Court of Final Appeal</h6>
 
 <hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(128, 128, 128);">
 
-<em>For entertainment only.</em>
-</h6>
+<h6><em>For entertainment only.</em></h6>
 
 <br>
 
