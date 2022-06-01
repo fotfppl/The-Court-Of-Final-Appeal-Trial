@@ -1,7 +1,7 @@
     
-![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg)
+![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg | width=100)
 
-<img src="http://trials.courtoffinalappeal.com/cofa.jpg" alt="The Court Of Final Appeal" width=100% class="center">
+<img src="http://trials.courtoffinalappeal.com/cofa.jpg" alt="The Court Of Final Appeal" width=100%>
 
 
 <body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">
