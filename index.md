@@ -35,6 +35,6 @@ be prepared for double the trouble!!</h4>
 <br>
 
 <em>A trial is currently in progress ... Please wait your turn.</em>
-BLAH!
+
   </div>
     </body>
