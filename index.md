@@ -2,7 +2,7 @@
 
 <img src="./cofa.jpg" alt="The Court Of Final Appeal" width="100%">
 
-<body style="color: #000000; background-color: #000000;">
+<body style="color: #FFFFFF; background-color: #000000;">
   <div style="text-align: center;">
 
 <script src="https://www.emailmeform.com/builder/forms/jsform/A7e04JflaDT37r9yR6OE6vL4" type="text/javascript"></script>
