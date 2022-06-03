@@ -7,7 +7,7 @@
 
 <br>
 
-<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color:Gray;">
+<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(96, 96, 96);">
 
 <h6>© 2008 Supreme Lord of The Court of Final Appeal</h6>
 

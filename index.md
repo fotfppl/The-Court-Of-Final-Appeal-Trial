@@ -1,4 +1,4 @@
-<hr style="width: 100%; height: 0px; background-color: rgb(0, 0, 0); margin: -58px 0 0 0;">
+<hr style="width: 100%; height: 0px; background-color: rgb(0, 0, 0); margin: -60px 0 0 0;">
 
 <img src="./cofa.jpg" alt="The Court Of Final Appeal" width="100%">
 
