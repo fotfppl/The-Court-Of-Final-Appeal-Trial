@@ -1,8 +1,8 @@
-<hr style="width: 100%; height: 0px; background-color: rgb(0, 0, 0); margin: -60px 0 0 0;">
+<hr style="width: 100%; height: 0px; background-color: #000000; margin: -60px 0 0 0;">
 
 <img src="./cofa.jpg" alt="The Court Of Final Appeal" width="100%">
 
-<body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">
+<body style="color: rgb(255, 255, 255); background-color: #000000;">
   <div style="text-align: center;">
 
 <script src="https://www.emailmeform.com/builder/forms/jsform/A7e04JflaDT37r9yR6OE6vL4" type="text/javascript"></script>
@@ -19,11 +19,11 @@ be prepared for double the trouble!!</h4>
 
 <br>
 
-<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(96, 96, 96);">
+<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: #404040;">
 
 <h6>© 2008 Supreme Lord of The Court of Final Appeal</h6>
 
-<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(96, 96, 96);">
+<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: #404040;">
 
 <h6><em>For entertainment only.</em></h6>
 
