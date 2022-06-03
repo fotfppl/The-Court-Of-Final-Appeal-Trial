@@ -1,10 +1,3 @@
-    
-![The Court Of Final Appeal](http://trials.courtoffinalappeal.com/cofa.jpg)
-
-![The Court Of Final Appeal](/cofa.jpg)
-
-<img src="http://trials.courtoffinalappeal.com/cofa.jpg" alt="The Court Of Final Appeal" width="100%">
-
 <img src="./cofa.jpg" alt="The Court Of Final Appeal" width="100%">
 
 <body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">
@@ -31,10 +24,6 @@ be prepared for double the trouble!!</h4>
 <hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(96, 96, 96);">
 
 <h6><em>For entertainment only.</em></h6>
-
-<br>
-
-<em>A trial is currently in progress ... Please wait your turn.</em>
 
   </div>
     </body>
