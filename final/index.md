@@ -1,4 +1,4 @@
-<hr style="width: 100%; height: 0px; background-color: rgb(0, 0, 0); margin: -58px 0 0 0;">
+<hr style="width: 100%; height: 0px; background-color: rgb(0, 0, 0); margin: -60px 0 0 0;">
 
 <img src="./cofafinal.jpg" alt="The Court Of Final Appeal Final" width="100%">
 
@@ -7,7 +7,7 @@
 
 <br>
 
-<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(96, 96, 96);">
+<hr style="border-width: 0pt; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color:Gray;">
 
 <h6>© 2008 Supreme Lord of The Court of Final Appeal</h6>
 
