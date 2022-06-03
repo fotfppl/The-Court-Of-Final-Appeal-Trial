@@ -1,3 +1,5 @@
+<hr style="border-width: 0pt; width: 100%; height: 10px; color: rgb(0, 0, 0); background-color: rgb(96, 96, 96);">
+
 <img src="./cofa.jpg" alt="The Court Of Final Appeal" width="100%">
 
 <body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">
